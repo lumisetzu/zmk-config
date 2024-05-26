@@ -28,7 +28,7 @@
 
         LOWER {
             bindings = <
-&kp TAB    &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp CARET       &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BSPC
+&kp TAB    &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp CARET       &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp F24
 &kp LCTRL  &trans           &trans       &trans    &trans      &trans         &kp MINUS       &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp BACKSLASH          &kp GRAVE
 &kp LSHFT  &trans           &trans       &trans    &trans      &trans         &kp UNDERSCORE  &kp PLUS       &kp LEFT_BRACE    &kp RIGHT_BRACE       &kp PIPE               &kp TILDE
                                          &kp LALT  &trans      &kp SPACE      &kp RETURN      &trans         &kp LGUI
