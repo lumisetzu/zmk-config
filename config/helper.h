@@ -112,7 +112,7 @@
 
 #if !defined OS_UNICODE_LEAD
     #if HOST_OS == 2
-        #define OS_UNICODE_LEAD &macro_press &kp LALT      // macOS/Windows-Alt-Codes
+        #define OS_UNICODE_LEAD &macro_press &kp RALT      // macOS/Windows-Alt-Codes
     #elif HOST_OS == 1
         #define OS_UNICODE_LEAD &macro_tap &kp LS(LC(U))   // Linux
     #else
